@@ -1,0 +1,8 @@
+A) Uma classe é uma estrutura que abstrai um conjunto de objetos com características similares. 
+Uma classe define o comportamento de seus objetos através de métodos e os estados possíveis destes objetos através de atributos.
+Enquanto objeto é um exemplar de uma classe.
+
+B)O construtor em si pode ser utilizado da forma vazia ou inicializando variáveis, dando valor a variáveis não utilizadas.
+
+C)O encapsulamente serve para facilitar o uso de variaveis, afim de facilitar a experiencia para o usuario.
+Ex: Controle de video-game, o qual o usuário utiliza apenas os botões de opções sem precisar saber o seu funcionament.
