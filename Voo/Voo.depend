@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1563330735 source:c:\users\arthur niodizeo\documents\voo\src\data.cpp
+	"Data.h"
+	<string.h>
+
+1563330881 c:\users\arthur niodizeo\documents\voo\include\data.h
+	<string>
+	<iostream>
+
+1563324493 source:c:\users\arthur niodizeo\documents\voo\src\horario.cpp
+	"Horario.h"
+
+1563324106 c:\users\arthur niodizeo\documents\voo\include\horario.h
+
+1563330918 source:c:\users\arthur niodizeo\documents\voo\src\voo.cpp
+	<iostream>
+	"Voo.h"
+
+1563329794 c:\users\arthur niodizeo\documents\voo\include\voo.h
+	"Data.h"
+	"Horario.h"
+
